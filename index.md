@@ -1,3 +1,8 @@
+---
+title: Privacy Policy for Ajrli
+layout: default
+---
+
 # Privacy Policy for Ajrli
 
 **Effective Date:** [Insert Date]  
